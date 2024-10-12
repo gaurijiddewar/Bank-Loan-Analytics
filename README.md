@@ -4,6 +4,8 @@ The Bank Loan Analytics Dashboard provides a comprehensive view of the bank's lo
 Key Goals:
 
 Track and monitor loan performance
+
 Evaluate borrower risk profiles
+
 Improve risk assessment
 
